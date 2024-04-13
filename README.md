@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Cybersecurity and Framework**
 
